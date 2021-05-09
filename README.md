@@ -10,3 +10,15 @@ To get started with linkedin video downloader Get into this [Google colab link](
 ![linkedin course github](https://user-images.githubusercontent.com/64597701/117582341-336fce80-b11f-11eb-8cc5-826352260303.png)
 
 Step 1:Run the first shell to mount your google drive in google colab.
+
+
+Step 2:Output directry:
+
+Step 3:Getting validate cookies for your account through developer tools in chrome:
+
+              -->Login into your linkedin learning account.
+              -->Click on the options in the google chrome (top right with 3 vertical dots).
+              -->After this, click on more tools followed by Developer Tools (you can also reach here by using the keyboard combination — ctrl+shift+I).
+              -->Now once you’ve gained access to the developer tools, navigate to the Application tab, and copy the value of two cookies from there named li_at and JSESSIONID respectively.
+              -->Once you got the credintials Just enter that credintials into the required field.
+              

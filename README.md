@@ -9,6 +9,21 @@ To get started with linkedin video downloader Get into this [Google colab link](
 
 ![linkedin course github](https://user-images.githubusercontent.com/64597701/117582341-336fce80-b11f-11eb-8cc5-826352260303.png)
 
+
+Tool Features:
+✅	cookie-based authentication
+✅	download a course and all its exercises
+✅	group videos by chapters
+✅	subtitles
+✅	nice progress bar
+✅	resume failed downloads
+✅	skip already downloaded videos
+✅	set video format (360p, 540p, 720p)
+✅	all platforms
+✅ Internet speed:100kbps (In google colab to download full course and automatically save it in your drive) 
+✅ You can save this files in your shareddrive also.
+✅ No piracy promoted here Use this tool for your own purpose.
+
 Step 1:Run the first shell to mount your google drive in google colab.
 
 

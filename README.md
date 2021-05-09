@@ -7,3 +7,6 @@ This is the project implementation on online through **Google Colab** based on [
 
 To get started with linkedin video downloader Get into this [Google colab link](https://colab.research.google.com/github/LAVANSURESH/Linkedinlearning-downloader/blob/main/Linkedin-learning-video(course)%20downloader.ipynb)  and Mount your google drive and give the needed details to download the course into your google drive. 
 
+![linkedin course github](https://user-images.githubusercontent.com/64597701/117582341-336fce80-b11f-11eb-8cc5-826352260303.png)
+
+Step 1:Run the first shell to mount your google drive in google colab.

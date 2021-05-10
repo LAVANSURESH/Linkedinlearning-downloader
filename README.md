@@ -41,6 +41,15 @@ Step 2:**Output directery:**
 
 Step 3:**Getting course slug**
 
+   Eg1:
+                 
+                 COURSE URL: https://www.linkedin.com/learning/learning-autodesk-inventor/creating-a-base-extrusion
+                 SLUG: learning-autodesk-inventor
+
+![image](https://user-images.githubusercontent.com/64597701/117606048-b112f900-b176-11eb-8efc-3fb37811ccb7.png)
+                 
+                 The highlighted text in the url is course slug to download course
+                 
 Step 3:Getting validate cookies for your account through developer tools in chrome:
 
               -->Login into your linkedin learning account.
@@ -49,5 +58,14 @@ Step 3:Getting validate cookies for your account through developer tools in chro
               -->Now once you’ve gained access to the developer tools, navigate to the Application tab, and copy the value of two cookies from there named li_at and JSESSIONID respectively.
               -->Once you got the credintials Just enter that credintials into the required field.
               
-         
+![image](https://user-images.githubusercontent.com/64597701/117606202-00592980-b177-11eb-99c0-df070b0d9fa5.png)
+
+              -->This is the developer tab screenshot.Just get into application tab and enter into cookies to get credintials.
               
+![image](https://user-images.githubusercontent.com/64597701/117606411-6f368280-b177-11eb-9589-6743cc897706.png)
+
+              -->Enter your credintials in respective fields.
+              
+Enter the quality:360p,540p,720p
+
+**And run the shell It will download the needed dependencies and install it.And starts download your required course in your output directory.**

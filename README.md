@@ -69,3 +69,6 @@ Step 3:Getting validate cookies for your account through developer tools in chro
 Enter the quality:360p,540p,720p
 
 **And run the shell It will download the needed dependencies and install it.And starts download your required course in your output directory.**
+
+
+**⚠️⚠️⚠️Developer not responsible for any illegal use.No piracy.Use this tool for personal use.**

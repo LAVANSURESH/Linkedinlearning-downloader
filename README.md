@@ -14,7 +14,7 @@ Tool Features:
       ✅download a course and all its exercises
       ✅group videos by chapters
       ✅subtitles
-      ✅nice progress bar
+      ✅Nice progress bar
       ✅resume failed downloads
       ✅skip already downloaded videos
       ✅set video format (360p, 540p, 720p)
@@ -27,7 +27,19 @@ Tool Features:
 Step 1:Run the first shell to mount your google drive in google colab.
 
 
-Step 2:Output directry:
+Step 2:Output directery:
+        
+ ![COPYPATH](https://user-images.githubusercontent.com/64597701/117605274-fb937600-b174-11eb-9035-74476bce6025.png)
+         
+         -->Right click the directory where you want the save video courses.
+         -->Copy the path and paste in output_dir field
+         
+         
+   
+ ![image](https://user-images.githubusercontent.com/64597701/117605505-7c527200-b175-11eb-861f-549f428af120.png)
+
+
+  
 
 Step 3:Getting validate cookies for your account through developer tools in chrome:
 

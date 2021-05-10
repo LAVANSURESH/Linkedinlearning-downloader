@@ -22,12 +22,12 @@ Tool Features:
       ✅You can save this files in your shareddrive also.
       ✅No piracy promoted here Use this tool for your own purpose.
 
+
+Step 1:**Run the first shell to mount your google drive in google colab.**
+
 ![linkedin course github](https://user-images.githubusercontent.com/64597701/117582341-336fce80-b11f-11eb-8cc5-826352260303.png)
 
-Step 1:Run the first shell to mount your google drive in google colab.
-
-
-Step 2:Output directery:
+Step 2:**Output directery:**
         
  ![COPYPATH](https://user-images.githubusercontent.com/64597701/117605274-fb937600-b174-11eb-9035-74476bce6025.png)
          
@@ -39,7 +39,7 @@ Step 2:Output directery:
  ![image](https://user-images.githubusercontent.com/64597701/117605505-7c527200-b175-11eb-861f-549f428af120.png)
 
 
-  
+Step 3:**Getting course slug**
 
 Step 3:Getting validate cookies for your account through developer tools in chrome:
 
@@ -48,4 +48,6 @@ Step 3:Getting validate cookies for your account through developer tools in chro
               -->After this, click on more tools followed by Developer Tools (you can also reach here by using the keyboard combination — ctrl+shift+I).
               -->Now once you’ve gained access to the developer tools, navigate to the Application tab, and copy the value of two cookies from there named li_at and JSESSIONID respectively.
               -->Once you got the credintials Just enter that credintials into the required field.
+              
+         
               
